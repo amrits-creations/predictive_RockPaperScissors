@@ -1,1 +1,1 @@
-I was wondering if a **PCN** would be able to beat me at **rock paper scissors**... Let's find out!
+I was wondering if an **AI model** would be able to beat me at **rock paper scissors**... Let's find out!
